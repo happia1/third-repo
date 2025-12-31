@@ -1,5 +1,4 @@
-# not funny
-
+# Github
 
 
 ## Project name
